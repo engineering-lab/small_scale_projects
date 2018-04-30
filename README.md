@@ -1,1 +1,1 @@
-# small_scale_projects
+#Small-scale projects
