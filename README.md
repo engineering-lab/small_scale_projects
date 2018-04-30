@@ -1,1 +1,1 @@
-#Small-scale projects
+#Small scale personal projects built in Python.
